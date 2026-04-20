@@ -19,3 +19,8 @@
 ### Infraestructura y Portabilidad
 - **Gestión de Dependencias:** Se optó por la instalación directa de librerías mediante `%pip` en la celda inicial del Notebook para garantizar la ejecución "out-of-the-box" en Google Colab sin depender de archivos externos.
 - **Compatibilidad:** Implementación de configuración dinámica para detección de entornos (Colab/Codespaces) y clonación automática del repositorio.
+
+### Ejercicio 03: Normalización y limpieza del dataset en fase RAW
+- **Normalización de columnas:** Se analizaron y procesaron las distintas columnas, se normalizaron los caracteres especiales. Aquellos valores nulos en fechas y horas fueron reemplazados por valores 'default' para mejor manipulación.
+- **Columnas calculadas:** Se agregaron dos columnas calculadas a partir de 'velocidad_maxima' y 'velocidad_registrada', se trata de 'exceso_velocidad' y 'exceso_velocidad_real'.
+- **Limpieza del dataset:** Aquellas filas cuyos valores no aportan valor informativo (por ej. un valor nulo en la patente) fueron filtradas del dataset y luego se guardo en '/data/interim'.
