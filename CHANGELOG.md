@@ -15,8 +15,7 @@
 ### Ejercicio 02: Gestión de Datos Raw
 - **Descarga:** Implementación de lógica de descarga automática y verificación de existencia de `speeding_fines.csv`.
 - **Análisis Inicial:** Carga del dataset, visualización de primeras filas y diagnóstico de tipos de datos.
-- **Diagnóstico:** Identificación de valores nulos y registros inconsistentes en fechas y horas.
 
-### Infraestructura y Reproducibilidad
-- **Dependencias:** Creación de `requirements.txt` para asegurar la instalación de librerías (`pandas`, `requests`, `seaborn`, etc.) en cualquier entorno.
-- **Compatibilidad:** Implementación de celda de configuración dinámica para detectar y configurar automáticamente el entorno en **Google Colab** o **GitHub Codespaces**.
+### Infraestructura y Portabilidad
+- **Gestión de Dependencias:** Se optó por la instalación directa de librerías mediante `%pip` en la celda inicial del Notebook para garantizar la ejecución "out-of-the-box" en Google Colab sin depender de archivos externos.
+- **Compatibilidad:** Implementación de configuración dinámica para detección de entornos (Colab/Codespaces) y clonación automática del repositorio.
