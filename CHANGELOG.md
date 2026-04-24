@@ -53,3 +53,8 @@
 ### Ejercicio 07: Conclusiones y Documentación de Cierre
 - **Automatización de Reportes:** Uso de `%%writefile` para la actualización dinámica de las conclusiones en `README.md`.
 - **Análisis de Hallazgos:** Redacción de la síntesis final sobre inconsistencias del sistema, patrones de reincidencia y distribución de infracciones para el cierre del **Sprint 1**.
+
+### Refactorización y Control de Calidad (QA)
+- **Corrección de Lógica de Datos:** Implementación de filtros para evitar el sesgo de "fechas centinela" en el análisis mensual de infracciones.
+- **Ajuste de Requisitos:** Ordenamiento explícito (alfabético) en el reporte de ubicaciones según especificaciones del enunciado.
+- **Optimización de Código:** - Eliminación de comentarios inline innecesarios para cumplir con las normas de estilo del proyecto.
