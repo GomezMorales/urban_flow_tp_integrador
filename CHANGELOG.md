@@ -41,3 +41,15 @@
 - **Gráfico de líneas:** Excesos de velocidad de infracciones con hora 00:00.
 - **Gráfico de líneas:** Excesos de velocidad de infracciones con fecha 1932-01-01.
 - **Exportación:** Todos los gráficos guardados en `urban_flow/data/interim/plots/`.
+
+---
+
+## [2026-04-24] - Día 4 de Trabajo
+
+### Ejercicio 06: Análisis de Integridad (Valores Centinela)
+- **Cuantificación de Errores:** Cálculo porcentual de infracciones afectadas por valores por defecto (`1932-01-01` y `00:00`).
+- **Diagnóstico:** Identificación del impacto de fallos en el sistema de registro heredado sobre la calidad total del dataset.
+
+### Ejercicio 07: Conclusiones y Documentación de Cierre
+- **Automatización de Reportes:** Uso de `%%writefile` para la actualización dinámica de las conclusiones en `README.md`.
+- **Análisis de Hallazgos:** Redacción de la síntesis final sobre inconsistencias del sistema, patrones de reincidencia y distribución de infracciones para el cierre del **Sprint 1**.

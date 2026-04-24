@@ -34,3 +34,42 @@ El proyecto mantiene la siguiente organización de archivos:
 * **Indentación:** 2 espacios según estándar solicitado.
 * **Formato:** PEP8 y Type Hints obligatorio.
 * **Versionado:** Uso de ramas (Sprint_1) y prohibición de `git add .`.
+
+## Conclusiones del dataset — Sprint 1
+
+El dataset de multas por exceso de velocidad de Vaalserberg presentó
+inconsistencias significativas heredadas del sistema anterior.
+
+Tras el proceso de limpieza y normalización se identificaron los
+siguientes hallazgos:
+
+- **Datos con fecha inválida (1932-01-01):** un porcentaje de los
+  registros no poseía una fecha válida. Esto indica fallas en el
+  sistema de registro del radar o en la exportación del sistema
+  heredado.
+
+- **Datos con hora inválida (00:00):** de manera similar, una
+  proporción de registros carecía de hora válida, lo que impide
+  analizar con precisión los horarios de mayor incidencia para
+  esos casos.
+
+- **Patentes inválidas:** se detectaron registros sin patente
+  identificable, los cuales fueron descartados por no aportar
+  valor al análisis ni al nuevo sistema.
+
+- **Reincidencia:** el análisis de las 10 patentes más multadas
+  evidencia vehículos con alta frecuencia de infracciones, lo que
+  sugiere conductores habituales de las vías monitoreadas.
+
+- **Distribución horaria:** la mayoría de las infracciones se
+  concentra en determinadas franjas horarias, lo que permite
+  orientar los controles hacia esos momentos de mayor riesgo.
+
+- **Distribución mensual:** la cantidad de infracciones varía
+  entre meses, con picos que pueden correlacionarse con mayor
+  circulación vehicular en ciertos períodos del año.
+
+En síntesis, el dataset requirió un tratamiento exhaustivo antes
+de poder ser utilizado de forma confiable. Los datos depurados
+constituyen una base sólida para incorporar al nuevo sistema y
+para futuras etapas de análisis del comportamiento vial.
