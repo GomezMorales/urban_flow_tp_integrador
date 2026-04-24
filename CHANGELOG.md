@@ -25,6 +25,7 @@
 - **Columnas calculadas:** Se agregaron dos columnas calculadas a partir de 'velocidad_maxima' y 'velocidad_registrada', se trata de 'exceso_velocidad' y 'exceso_velocidad_real'.
 - **Limpieza del dataset:** Aquellas filas cuyos valores no aportan valor informativo (por ej. un valor nulo en la patente) fueron filtradas del dataset y luego se guardo en '/data/interim'.
 
+---
 
 ## [2026-04-23] - Día 3 de Trabajo
 
@@ -33,3 +34,10 @@
 - **Modularización:** Implementación de métodos específicos dentro de la clase para la carga, limpieza y generación de estadísticas del dataset.
 - **Ejecución:** Ejecución secuencial de cada uno de los métodos de la clase para validar el flujo completo de análisis.
 
+### Ejercicio 05: Visualizaciones
+- **Gráfico de barras:** Top 10 patentes más reincidentes ordenadas de mayor a menor.
+- **Gráfico de torta:** Porcentaje de infracciones por hora agrupadas sin minutos.
+- **Gráfico de barras horizontal:** Cantidad de infracciones por mes ordenadas de mayor a menor.
+- **Gráfico de líneas:** Excesos de velocidad de infracciones con hora 00:00.
+- **Gráfico de líneas:** Excesos de velocidad de infracciones con fecha 1932-01-01.
+- **Exportación:** Todos los gráficos guardados en `urban_flow/data/interim/plots/`.
