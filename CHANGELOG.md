@@ -25,7 +25,14 @@
 - **Columnas calculadas:** Se agregaron dos columnas calculadas a partir de 'velocidad_maxima' y 'velocidad_registrada', se trata de 'exceso_velocidad' y 'exceso_velocidad_real'.
 - **Limpieza del dataset:** Aquellas filas cuyos valores no aportan valor informativo (por ej. un valor nulo en la patente) fueron filtradas del dataset y luego se guardo en '/data/interim'.
 
+---
+
 ## [2026-04-23] - Día 3 de Trabajo
+
+### Ejercicio 04: Refactorización y Análisis Avanzado
+- **Programación Orientada a Objetos:** Creación de la clase `FineAnalyzer` para encapsular la lógica de procesamiento y análisis de multas.
+- **Modularización:** Implementación de métodos específicos dentro de la clase para la carga, limpieza y generación de estadísticas del dataset.
+- **Ejecución:** Ejecución secuencial de cada uno de los métodos de la clase para validar el flujo completo de análisis.
 
 ### Ejercicio 05: Visualizaciones
 - **Gráfico de barras:** Top 10 patentes más reincidentes ordenadas de mayor a menor.
