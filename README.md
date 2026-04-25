@@ -65,9 +65,7 @@ siguientes hallazgos:
   concentra en determinadas franjas horarias, lo que permite
   orientar los controles hacia esos momentos de mayor riesgo.
 
-- **Distribución mensual:** la cantidad de infracciones varía
-  entre meses, con picos que pueden correlacionarse con mayor
-  circulación vehicular en ciertos períodos del año.
+- **Distribución mensual:** tras filtrar los registros con fechas inválidas que sesgaban el análisis inicial, se identificaron picos de infracciones que pueden correlacionarse con una mayor circulación vehicular en períodos específicos.
 
 En síntesis, el dataset requirió un tratamiento exhaustivo antes
 de poder ser utilizado de forma confiable. Los datos depurados
