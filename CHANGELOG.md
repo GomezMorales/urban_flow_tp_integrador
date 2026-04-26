@@ -58,3 +58,6 @@
 
 ## 2026-04-26 - Ejercicio 06 - Cálculo de métricas de calidad de datos
 - Análisis de impacto de valores nulos normalizados
+
+## 2026-04-26 - Ejercicio 07 - Redacción de conclusiones finales
+- Actualización del README con los resultados del análisis
