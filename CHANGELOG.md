@@ -14,3 +14,6 @@ Todos los cambios notables de este proyecto serán documentados en este archivo.
 
 ## 2026-04-26 - Ejercicio 05 - Generación de visualizaciones de distribución por ubicación
 - Exportación de gráficos a la carpeta plots
+
+## 2026-04-26 - Ejercicio 06 - Cálculo de métricas de calidad de datos
+- Análisis de impacto de valores nulos normalizados
