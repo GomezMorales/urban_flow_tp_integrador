@@ -11,3 +11,6 @@ Todos los cambios notables de este proyecto serán documentados en este archivo.
 
 ## 2026-04-26 - Ejercicio 04 - Implementación de la clase FineAnalyzer
 - Creación de métodos de ranking y promedios
+
+## 2026-04-26 - Ejercicio 05 - Generación de visualizaciones de distribución por ubicación
+- Exportación de gráficos a la carpeta plots
