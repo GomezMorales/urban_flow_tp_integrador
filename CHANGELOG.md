@@ -58,3 +58,5 @@
 - **Corrección de Lógica de Datos:** Implementación de filtros para evitar el sesgo de "fechas centinela" en el análisis mensual de infracciones.
 - **Ajuste de Requisitos:** Ordenamiento explícito (alfabético) en el reporte de ubicaciones según especificaciones del enunciado.
 - **Optimización de Código:** - Eliminación de comentarios inline innecesarios para cumplir con las normas de estilo del proyecto.
+## 2026-04-26 - Ejercicio 01
+- Creación de la estructura de carpetas (raw, interim, processed)
