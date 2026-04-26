@@ -8,3 +8,6 @@ Todos los cambios notables de este proyecto serán documentados en este archivo.
 ## 2026-04-26 - Ejercicio 03 - Normalización de fechas y patentes
 - Tratamiento de outliers
 - Generación de archivo interim
+
+## 2026-04-26 - Ejercicio 04 - Implementación de la clase FineAnalyzer
+- Creación de métodos de ranking y promedios
