@@ -24,3 +24,5 @@ ENV/
 # --- Configuración de Editores ---
 # Configuraciones locales de VS Code (opcional pero recomendado)
 .vscode/
+# Ignorar imágenes locales (gestionadas por DVC)
+urban_flow/data/raw/imgs/
