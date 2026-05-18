@@ -58,3 +58,5 @@
 ## 2026-05-18 - Ejercicio 03 - Conversión a grises, suavizado y detección de bordes Canny
 
 ## 2026-05-18 - Ejercicio 03 - Conversión a grises, suavizado y detección de bordes Canny
+
+## 2026-05-18 - Ejercicio 03 - Conversión a grises, suavizado y detección de bordes Canny
