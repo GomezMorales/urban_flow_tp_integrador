@@ -1,5 +1,0 @@
-[core]
-    no_scm = True
-    remote = storage_dynamic
-['remote "storage_dynamic"']
-    url = /content/drive/MyDrive/dvc_storage_urban_flow
