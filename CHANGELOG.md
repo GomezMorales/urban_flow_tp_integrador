@@ -77,3 +77,6 @@
 ## 2026-05-24 - Ejercicio 06 - Conclusiones sobre imágenes y datos
 
 ## 2026-05-24 - Ejercicio 01 - Descarga de imagenes y traceo de las mismas con git
+
+## 2026-05-24 - Ejercicio 02 - Creación de diccionario con imagenes e info de cada una 
+- Desarrollo funcion reutilizable para mostrar 8 imagenes aleatorias
