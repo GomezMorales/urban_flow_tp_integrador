@@ -91,3 +91,5 @@
 
 ## 2026-05-24 - Ejercicio 02 - Creación de diccionario con imagenes e info de cada una 
 - Desarrollo funcion reutilizable para mostrar 8 imagenes aleatorias
+
+## 2026-05-24 - Ejercicio 03 - Conversión a grises, suavizado y detección de bordes Canny
