@@ -64,3 +64,5 @@
 ## 2026-05-24 - Ejercicio 01 - Descarga de imagenes y traceo de las mismas con git
 
 ## 2026-05-24 - Ejercicio 01 - Descarga de imagenes y traceo de las mismas con git
+
+## 2026-05-24 - Ejercicio 01 - Descarga de imagenes y traceo de las mismas con git
