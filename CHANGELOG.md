@@ -73,3 +73,5 @@
 ## 2026-05-24 - Ejercicio 03 - Conversión a grises, suavizado y detección de bordes Canny
 
 ## 2026-05-24 - Ejercicio 04 - OCR con EasyOCR, limpieza de texto y match de patentes al 80% con SequenceMatcher
+
+## 2026-05-24 - Ejercicio 06 - Conclusiones sobre imágenes y datos
