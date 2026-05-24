@@ -75,3 +75,5 @@
 ## 2026-05-24 - Ejercicio 04 - OCR con EasyOCR, limpieza de texto y match de patentes al 80% con SequenceMatcher
 
 ## 2026-05-24 - Ejercicio 06 - Conclusiones sobre imágenes y datos
+
+## 2026-05-24 - Ejercicio 01 - Descarga de imagenes y traceo de las mismas con git
