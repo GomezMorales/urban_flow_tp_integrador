@@ -1,0 +1,6 @@
+outs:
+- md5: e9d393e4e4b3f42457df56d46d07319a.dir
+  size: 3552218
+  nfiles: 108
+  hash: md5
+  path: 03_03_canny
